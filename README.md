@@ -1,5 +1,5 @@
 # IS31FL3729_LED_Matrix
-Arduino library for IS31FL3729 LED Matrix
+Arduino library for [IS31FL3729](https://lumissil.com/assets/pdf/core/IS31FL3729_DS.pdf) LED Matrix from Lumissil Microsystems.
 
 ## Overview 
 
