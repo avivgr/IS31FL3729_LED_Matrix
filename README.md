@@ -1,3 +1,5 @@
+[![Arduino Lint](https://github.com/avivgr/IS31FL3729_LED_Matrix/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/avivgr/IS31FL3729_LED_Matrix/actions/workflows/arduino-lint.yml)
+
 # IS31FL3729_LED_Matrix
 Arduino library for [IS31FL3729](https://lumissil.com/assets/pdf/core/IS31FL3729_DS.pdf) LED Matrix from Lumissil Microsystems.
 
